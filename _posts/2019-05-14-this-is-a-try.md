@@ -1,6 +1,6 @@
 ---
 layout: lorem-ipsum
-title: lorem-ipsum
+title: This is a test
 author: lorem-ipsum
 categories: []
 tags: []
