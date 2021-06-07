@@ -29,4 +29,3 @@ description: "My review of Inception movie. Actors, directing and more."
 rating: 4.5	
 ---	
 ```	
-0 comments on commit cc09bb0
