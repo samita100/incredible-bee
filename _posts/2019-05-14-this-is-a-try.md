@@ -4,7 +4,8 @@ title: just chill
 author: lorem-ipsum
 categories: []
 tags: []
-image: assets/images/12.jpg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png
 description: lorem-ipsum
 featured: false
 hidden: false
