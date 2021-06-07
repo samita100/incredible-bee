@@ -71,10 +71,6 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
                 </li>
 
-                <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/categories">Categories</a>
-                </li>
-
                 {% for category in site.categories %}
                 <a class=nav-link href="{{ site.baseurl }}/categories#{{ category[0] | replace: " ","-" }}">{{ category[0] }}</a>
                 {% endfor %}
