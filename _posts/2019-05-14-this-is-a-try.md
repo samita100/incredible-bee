@@ -4,7 +4,7 @@ title: just chill
 author: lorem-ipsum
 categories: []
 tags: []
-image: 1.jpg
+image: assets/images/12.jpg
 description: lorem-ipsum
 featured: false
 hidden: false
