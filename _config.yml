@@ -1,8 +1,8 @@
 name: Dollarspedia
 title: DOllarspedia
 description: 'Life gets Easier when you make more $$$'
-logo: assets/images/logo.png
-favicon: assets/images/logo.png
+logo: assets/images/logo.webp
+favicon: assets/images/logo.webp
 baseurl: ''
 google_analytics: UA-46278016-1
 disqus: demowebsite
