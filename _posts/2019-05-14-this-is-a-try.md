@@ -9,7 +9,7 @@ image: >-
 description: this is an description
 featured: true
 hidden: false
-rating: 0
+rating: 4.5
 beforetoc: lorem-ipsum
 toc: false
 ---
