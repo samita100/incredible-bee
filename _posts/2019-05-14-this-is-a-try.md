@@ -1,7 +1,7 @@
 ---
 layout: lorem-ipsum
 title: just chill
-author: lorem-ipsum
+author: Sam
 categories: []
 tags: []
 image: >-
