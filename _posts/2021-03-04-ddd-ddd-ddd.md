@@ -10,7 +10,7 @@ featured: false
 hidden: false
 rating: 0
 beforetoc: lorem-ipsum
-toc: false
+toc: true
 ---
 ## Lorem ipsum
 
