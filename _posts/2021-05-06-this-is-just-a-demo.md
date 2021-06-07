@@ -1,6 +1,6 @@
 ---
 layout: lorem-ipsum
-title: lorem-ipsum
+title: Demo title
 author: lorem-ipsum
 categories: []
 tags: []
