@@ -2,7 +2,8 @@
 layout: lorem-ipsum
 title: just chill
 author: Sam
-categories: []
+categories:
+  - lorem-ipsum
 tags: []
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png
