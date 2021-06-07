@@ -10,7 +10,7 @@ featured: false
 hidden: false
 rating: 0
 beforetoc: post
-toc: true
+toc: false
 ---
 ## Lorem ipsum
 
