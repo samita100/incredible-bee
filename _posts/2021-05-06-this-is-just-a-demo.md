@@ -1,5 +1,5 @@
 ---
-layout: lorem-ipsum
+layout: post
 title: Demo title
 author: Aman
 categories: []
