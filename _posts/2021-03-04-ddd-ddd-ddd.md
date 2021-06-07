@@ -9,7 +9,7 @@ description: lorem-ipsum
 featured: false
 hidden: false
 rating: 0
-beforetoc: lorem-ipsum
+beforetoc: post
 toc: true
 ---
 ## Lorem ipsum
