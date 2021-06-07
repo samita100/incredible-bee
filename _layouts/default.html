@@ -81,7 +81,6 @@ ga('send', 'pageview');
 
                 {% for category in site.categories %}
                 <a id="{{ category[0] | replace: " ","-" }}">{{ category[0] }}</span></a>
-                </div>
                 {% endfor %}
 
                 {% include search-lunr.html %}
