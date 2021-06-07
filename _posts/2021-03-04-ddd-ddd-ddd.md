@@ -1,5 +1,5 @@
 ---
-layout: lorem-ipsum
+layout: post
 title: ddddddd
 author: lorem-ipsum
 categories: []
