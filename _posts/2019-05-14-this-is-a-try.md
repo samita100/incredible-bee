@@ -6,7 +6,7 @@ categories: []
 tags: []
 image: lorem-ipsum
 description: lorem-ipsum
-featured: true
+featured: false
 hidden: false
 rating: 0
 beforetoc: lorem-ipsum
