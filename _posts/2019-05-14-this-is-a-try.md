@@ -7,7 +7,7 @@ tags: []
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png
 description: this is an description
-featured: false
+featured: true
 hidden: false
 rating: 0
 beforetoc: lorem-ipsum
