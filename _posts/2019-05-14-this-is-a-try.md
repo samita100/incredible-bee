@@ -4,7 +4,7 @@ title: This is a test
 author: lorem-ipsum
 categories: []
 tags: []
-image: lorem-ipsum
+image: 1.jpg
 description: lorem-ipsum
 featured: false
 hidden: false
