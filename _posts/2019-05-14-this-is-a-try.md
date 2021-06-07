@@ -1,6 +1,6 @@
 ---
 layout: lorem-ipsum
-title: This is a test
+title: just chill
 author: lorem-ipsum
 categories: []
 tags: []
