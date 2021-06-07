@@ -1,20 +1,31 @@
 ---
-layout: lorem-ipsum
-title: lorem-ipsum
-author: lorem-ipsum
-categories: []
-tags: []
-image: lorem-ipsum
-description: lorem-ipsum
+layout: post
+title:  "Inception Movie"
+author: john
+categories: [ Jekyll, tutorial ]
+tags: [red, yellow]
+image: assets/images/11.jpg
+description: "My review of Inception movie. Acting, plot and something else in this short description."
 featured: true
-hidden: false
-rating: 0
-beforetoc: lorem-ipsum
-toc: false
+hidden: true
+rating: 4.5
 ---
-## Lorem ipsum
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
 
-- Lorem ipsum
-- dolor sit amet
+#### How to use?
+
+It's actually really simple! Add the rating in your YAML front matter. It also supports halfs:
+
+```html
+---
+layout: post
+title:  "Inception Movie"
+author: john
+categories: [ Jekyll, tutorial ]
+tags: [red, yellow]
+image: assets/images/11.jpg
+description: "My review of Inception movie. Actors, directing and more."
+rating: 4.5
+---
+```
