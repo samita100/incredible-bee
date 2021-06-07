@@ -1,7 +1,7 @@
 ---
 layout: lorem-ipsum
 title: Demo title
-author: lorem-ipsum
+author: Aman
 categories: []
 tags: []
 image: lorem-ipsum
