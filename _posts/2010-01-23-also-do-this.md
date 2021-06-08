@@ -1,6 +1,6 @@
 ---
 layout: post
-title: lorem-ipsum
+title: also do this
 author: lorem-ipsum
 categories: []
 tags: []
